@@ -7,7 +7,7 @@ The program uses AES EAX mode to encrypt/decrypt a file and then uses Shamir's S
 
 ## Setup
 
-Install all the dependencies listed in requirements.txt
+Install all the dependencies listed in `requirements.txt`.
 
 ## Example
 
