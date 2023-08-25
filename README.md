@@ -1,4 +1,4 @@
-# Python Secret Sharing
+# Simple Python Secret Sharing Program
 
 > [!WARNING]
 > Not validated for high security use. Can be useful for simple secret sharing.
