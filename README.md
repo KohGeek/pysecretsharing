@@ -61,7 +61,6 @@ Shamir's Secret Sharing Scheme:
 Help for decrypt.py
 
 ```txt
-(secrets) PS C:\Users\KohCo\Desktop\secrets> python .\decrypt.py -h
 usage: decrypt.py [-h] [-e e] [-v] (-s S [S ...] | -i) input output
 
 Decrypts the encrypted file with a set of shares.
